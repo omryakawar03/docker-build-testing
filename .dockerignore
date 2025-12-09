@@ -1,0 +1,14 @@
+node_modules
+.next
+npm-debug.log
+.env
+.env.local
+.env.*.local
+dist
+.DS_Store
+.git
+pnpm-store
+pnpm-lock.yaml
+Dockerfile
+docker-compose.yml
+README.md
